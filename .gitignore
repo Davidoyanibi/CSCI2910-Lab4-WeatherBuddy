@@ -1,1 +1,15 @@
+# Ignore virtual environment folder
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variables file
 .env
+
+# Ignore local favorites file (optional)
+favorites.txt
+
+# Ignore VS Code settings (optional but safe)
+.vscode/
